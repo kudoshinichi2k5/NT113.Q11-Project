@@ -22,6 +22,9 @@ The complete network layout, inter-VLAN routing, and security policies are simul
 
 The infrastructure interconnects the **Ho Chi Minh City Headquarters (HQ)** with three regional network branches: **Binh Duong**, **Dong Nai**, and **Can Tho**.
 
+### 📊 Physical Network Topology
+![MedCare Physical Network Topology](diagrams/physical_topology.png)
+
 ### Network Segmentation (VLAN Allocation)
 
 | Location | VLAN | Name | Subnet (CIDR) | Gateway | Purpose |
