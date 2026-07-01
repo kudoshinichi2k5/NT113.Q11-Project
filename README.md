@@ -7,6 +7,17 @@ The complete network layout, inter-VLAN routing, and security policies are simul
 
 ---
 
+## 👥 Project Team Members
+
+| Full Name | Student ID |
+| :--- | :---: |
+| Nguyễn Thị Lệ Trúc | 23521670 |
+| Nguyễn Hữu Luân | 23520898 |
+| Lê Trung Kiên | 23520797 |
+| Nguyễn Đăng Khoa | 23520747 |
+
+---
+
 ## 🛠️ Key Architectural Features
 
 * **Three-Tier Hierarchical Model:** Built on a standardized Core – Distribution – Access enterprise architecture using Layer 3 switches for high-performance Inter-VLAN routing.
