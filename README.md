@@ -21,6 +21,7 @@ The complete network layout, inter-VLAN routing, and security policies are simul
 ## 📂 Repository Structure
 
 Below is the layout of the project files and directories contained within this repository:
+```text
 .
 ├── Bang_phan_chia_IP.docx      # Detailed IP Addressing & VLSM Subnet Plan
 ├── Plan.docx                   # Project Implementation Plan & PDIOO Workflow
@@ -30,7 +31,7 @@ Below is the layout of the project files and directories contained within this r
 │   └── MedCare-configure.pkt   # Original Cisco Packet Tracer Simulation File
 └── diagrams/                   # Architecture Network Diagrams
     └── physical_topology.png   # Full Physical Network Topology Image
-
+```
 ---
 
 ## 🛠️ Key Architectural Features
