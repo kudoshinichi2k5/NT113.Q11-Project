@@ -1,7 +1,7 @@
 # Enterprise Network Architecture for MedCare International Hospital
 
 ## 📌 Overview
-This project focuses on designing and simulating a comprehensive, secure, and highly available enterprise network infrastructure for **MedCare International Hospital**, a modern multi-branch healthcare system. The architecture is engineered to provide a robust backbone for critical medical services, including Electronic Health Records (EHR), Hospital Information Systems (HIS), Picture Archiving and Communication Systems (PACS), and Telemedicine capabilities.
+This project focuses on designing and simulating a comprehensive, secure, and highly available enterprise network infrastructure for **MedCare International Hospital**, a modern multi-branch healthcare system. 
 
 The complete network layout, inter-VLAN routing, and security policies are simulated and validated using **Cisco Packet Tracer**.
 
