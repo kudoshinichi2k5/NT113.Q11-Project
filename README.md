@@ -18,6 +18,23 @@ The complete network layout, inter-VLAN routing, and security policies are simul
 
 ---
 
+## 📂 Repository Structure
+
+Below is the layout of the project files and directories contained within this repository:
+
+```text
+.
+├── Bang_phan_chia_IP.docx      # Detailed IP Addressing & VLSM Subnet Plan
+├── Plan.docx                   # Project Implementation Plan & PDIOO Workflow
+├── README.md                   # Project Documentation & Architecture Overview
+├── config/                     # Network Device Configurations
+│   ├── Configuration.docx      # Step-by-step configuration commands & logs
+│   └── MedCare-configure.pkt   # Original Cisco Packet Tracer Simulation File
+└── diagrams/                   # Architecture Network Diagrams
+    └── physical_topology.png   # Full Physical Network Topology Image
+
+---
+
 ## 🛠️ Key Architectural Features
 
 * **Three-Tier Hierarchical Model:** Built on a standardized Core – Distribution – Access enterprise architecture using Layer 3 switches for high-performance Inter-VLAN routing.
